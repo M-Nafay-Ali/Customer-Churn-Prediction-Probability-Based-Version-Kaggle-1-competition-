@@ -42,3 +42,5 @@ The final production pipeline was exported into a serialized format (`best_churn
 
 ## 📞 Contact:-
 * **LinkedIn:-**[https://www.linkedin.com/in/mohammed-nafay-ali-16519138a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+
+* **Email:-**[englandengland271@gmail.com]
